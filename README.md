@@ -1,6 +1,5 @@
-## Hi there, I’m Cassiano, I’m have 15 years.
-- 🔭 I’m currently working on an app of a library.
-- 🌱 I’m currently studying at the technical school in Campinas-SP
+## Hi there
+My name is João Pedro, I’m have 16y, I'm a fullstack programmer in development, currently studying at the technical college of Campinas - COTUCA
 
 <div> 
  
