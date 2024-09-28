@@ -1,4 +1,2 @@
-## Hi there 👋
-My name is João Pedro, I’m have 16y.
-I'm a fullstack programmer in development, 
-currently studying at the technical college of Campinas - COTUCA
+<h5>Hi, I'm João Cassiano and I fascinated by programming and games.</h5>
+<h6><em>— see some of my repository 💾</em></h6>
